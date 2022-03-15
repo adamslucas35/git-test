@@ -1,3 +1,3 @@
-# git-test
+# git_test
 TheOdinProject First GitHub Repo!
 "Hello Odin!"
